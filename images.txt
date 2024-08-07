@@ -10,6 +10,7 @@ bitnami/minio:2023.3.24
 bitnami/zookeeper:3.7.2
 bitnami/redis-cluster:7.2.2
 goharbor/harbor-db:v2.10.3
+goharbor/harbor-db:v2.9.5
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
