@@ -2,6 +2,14 @@ nginx
 alpine
 centos:centos7.9.2009
 nginx:1.27.0
+bitnami/etcd:3.5.0
+grafana/grafana:10.1.5
+influxdb:1.8.10
+ricardbejarano/minio:RELEASE.2023-03-24T21-41-23Z
+bitnami/minio:2023.3.24
+bitnami/zookeeper:3.7.2
+bitnami/redis-cluster:7.2.2
+goharbor/harbor-db:v2.10.3
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
