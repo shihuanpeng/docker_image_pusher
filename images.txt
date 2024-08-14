@@ -1,6 +1,7 @@
 nginx
 alpine
 centos:centos7.9.2009
+gcr.io/distroless/static-debian11
 nginx:1.27.0
 bitnami/etcd:3.5.0
 grafana/grafana:10.1.5
