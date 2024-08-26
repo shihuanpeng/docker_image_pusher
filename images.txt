@@ -9,6 +9,7 @@ influxdb:1.8.10
 bitnami/redis-cluster:6.2.14
 ricardbejarano/minio:RELEASE.2023-03-24T21-41-23Z
 bitnami/minio:2023.3.24
+bitnami/minio:2022.5.23
 bitnami/zookeeper:3.7.2
 rancher/coreos-etcd:v3.4.3-amd64
 bitnami/redis-cluster:7.2.2
