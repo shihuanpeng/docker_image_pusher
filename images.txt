@@ -1,1 +1,1 @@
-bitnami/minio:2023.3.9
+bitnami/minio:2023.3.20
