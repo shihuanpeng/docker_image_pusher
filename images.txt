@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2024-07-29T22-14-52Z
+consul:1.13.5
