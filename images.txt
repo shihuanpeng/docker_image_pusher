@@ -1,1 +1,1 @@
-consul:1.13.5
+centos:centos7.9.2009
