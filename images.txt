@@ -1,1 +1,2 @@
 centos:centos7.9.2009
+coreos/etcd:v3.5.7
