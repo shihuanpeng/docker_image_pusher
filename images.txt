@@ -1,1 +1,5 @@
 centos:centos7.9.2009
+apache/skywalking-oap-server:10.2.0
+apache/skywalking-ui:10.2.0
+apache/skywalking-satellite:v1.3.0
+elasticsearch:7.5.1
