@@ -1,4 +1,4 @@
-google_containers/coredns:1.8.0
+docker.1ms.run/coredns/coredns:1.8.0
 centos:centos7.9.2009
 apache/skywalking-oap-server:10.2.0
 apache/skywalking-ui:10.2.0
