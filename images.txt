@@ -1,5 +1,4 @@
-velero/velero-plugin-for-aws:v1.17.1
-velero/velero-plugin-for-aws:v1.10.3
+openresty/openresty
 velero/velero:v1.3.1
 velero/velero:v1.17.1
 velero/velero:v1.10.3
