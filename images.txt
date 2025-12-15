@@ -5,6 +5,7 @@ velero/velero:v1.17.1
 velero/velero:v1.10.3
 raphii/synology_backup_exporter:dsm7
 centos:centos7.9.2009
+apache/skywalking-oap-server:10.3.0
 apache/skywalking-oap-server:10.2.0
 apache/skywalking-ui:10.2.0
 apache/skywalking-satellite:v1.3.0
