@@ -1,3 +1,4 @@
+quay.io/ceph/ceph:v16
 busybox:1.30
 openresty/openresty
 velero/velero:v1.3.1
