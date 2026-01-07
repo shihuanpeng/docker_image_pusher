@@ -1,3 +1,5 @@
+gitlab/gitlab-ee:latest
+jenkins/jenkins:lts
 minio/minio:latest
 quay.io/ceph/ceph:v16
 busybox:1.30
