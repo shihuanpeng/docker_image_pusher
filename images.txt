@@ -5,7 +5,6 @@ jenkins/jenkins:lts
 minio/minio:latest
 quay.io/ceph/ceph:v16
 busybox:1.30
-openresty/openresty
 velero/velero:v1.3.1
 velero/velero:v1.17.1
 velero/velero:v1.10.3
