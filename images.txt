@@ -1,3 +1,4 @@
+hashicorp/vault-k8s:1.7.3-ubi
 hashicorp/vault-k8s:1.7.1-ubi
 hashicorp/vault-k8s:1.7.2-ubi
 gitlab/gitlab-ee:latest
