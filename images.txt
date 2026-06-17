@@ -1,6 +1,6 @@
 n8nio/n8n:1.123.43
 n8nio/n8n:1.123.48
-n8nio/n8n:1.123.55
+n8nio/n8n@sha256:dc51b13c54a378faabd16b9c352d8ec1299af72ae4967f37d1c60aede0f6fe5f
 node:24.13.1-alpine
 mattermost/mattermost-operator:v1.25.4
 mattermost/mattermost-team-edition:10.11.15
