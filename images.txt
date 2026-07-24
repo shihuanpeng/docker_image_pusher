@@ -1,1 +1,1 @@
-registry.redhat.io/ubi8/ubi-minimal
+n8nio/n8n:1.123.67
