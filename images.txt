@@ -1,1 +1,1 @@
-n8nio/n8n:1.123.69
+jenkins/jenkins:2.568.2-lts-rhel-ubi9-jdk21
